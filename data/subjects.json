@@ -1,0 +1,13 @@
+{
+  "subjects": [
+    "Default Subject",
+    {
+      "name": "Fruits",
+      "description": "Bananas are a tropical fruit known for their bright yellow peel and sweet, creamy flesh.\nRich in potassium and fiber, they make a convenient snack and versatile ingredient in smoothies, baked goods, and savory dishes."
+    },
+    {
+      "name": "Testing",
+      "description": "Trying the app on video :)"
+    }
+  ]
+}

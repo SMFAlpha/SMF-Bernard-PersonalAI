@@ -1,0 +1,27 @@
+flask==3.0.2
+flask-socketio==5.3.6
+eventlet==0.33.3         # for socketio
+openai==1.77.0
+python-dotenv==1.0.1
+requests==2.31.0
+pyaudio==0.2.14
+pydub==0.25.1
+SpeechRecognition==3.10.1
+langdetect==1.0.9
+faiss-cpu==1.7.4
+aiohttp==3.8.5
+numpy>=1.26.2,<1.27
+torch>=2.1.0,<3.0.0
+unstructured==0.10.30
+transformers>=4.39.0,<5.0.0
+pypdf==4.0
+
+# LangChain core plus the loaders & community extensions
+langchain>=0.3.24,<1.0.0
+langchain-unstructured==0.1.6
+langchain-community==0.3.23
+langchain-huggingface==0.1.2
+
+# Embeddings model
+sentence-transformers==4.1.0
+

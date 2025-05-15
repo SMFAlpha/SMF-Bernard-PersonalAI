@@ -1,0 +1,36 @@
+{
+  "memories": [
+    {
+      "title": "Fruits & Vegetables",
+      "tags": [
+        "fruits",
+        "vegetables",
+        "fruit",
+        "vegetable",
+        "health"
+      ],
+      "date": "2025-05-08",
+      "text": "Bananas are a tropical fruit known for their bright yellow peel and sweet, creamy flesh.\nRich in potassium and fiber, they make a convenient snack and versatile ingredient in smoothies, baked goods, and savory dishes.\n\nVegetables are nutrient-rich plant foods that provide essential vitamins, minerals, and antioxidants.\nThey come in a diverse array of colors and textures, adding both flavor and health benefits to meals.",
+      "timestamp": "2025-05-08T23:38:24.635637+00:00"
+    },
+    {
+      "title": "Testing #2",
+      "tags": [
+        "test. video"
+      ],
+      "date": "2025-05-09",
+      "text": "Bernard: Great, testing's the first step—like tuning your golf swing before the big match. What's next on your list?\n\nUser: Hello, I am testing this application.",
+      "timestamp": "2025-05-09T17:12:31.249098+00:00"
+    },
+    {
+      "title": "Testing - 3",
+      "tags": [
+        "test",
+        "video"
+      ],
+      "date": "2025-05-09",
+      "text": "Knowledge Base Context:\nBananas are a tropical fruit known for their bright yellow peel and sweet, creamy flesh.\nRich in potassium and fiber, they make a convenient snack and versatile ingredient in smoothies, baked goods, and savory dishes.\n\nVegetables are nutrient-rich plant foods that provide essential vitamins, minerals, and antioxidants.\nThey come in a diverse array of colors and textures, adding both flavor and health benefits to meals.\n\n---\n\nChat History Context:\nUser: \nBernard: Bernard: Hey there! Testing's good—keeps things sharp, like a Formula 1 pit stop. What's on your mind?\n\nUser: Hello, I am testing this.\n\nUser: Hello, I am testing this.\nBernard: Hey there! Testing's good—keeps things sharp, like a Formula 1 pit stop. What's on your mind?",
+      "timestamp": "2025-05-09T17:17:58.924742+00:00"
+    }
+  ]
+}

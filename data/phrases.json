@@ -1,0 +1,14 @@
+{
+    "greetings": [
+        "Hello",
+        "Hi there"
+    ],
+    "farewells": [
+        "Goodbye",
+        "See you later"
+    ],
+    "acknowledgments": [
+        "I understand",
+        "Got it"
+    ]
+}

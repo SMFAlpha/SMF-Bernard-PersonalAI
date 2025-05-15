@@ -1,0 +1,42 @@
+# Bernard AI Assistant Environment Variables
+# Copy this file to .env and fill in your values
+
+# OpenAI API Key (Required)
+# Used for language model completions and embeddings
+OPENAI_API_KEY=your_openai_key_here
+
+# ElevenLabs API Key (Required)
+# Used for text-to-speech and speech-to-text
+ELEVENLABS_API_KEY=your_elevenlabs_key_here
+
+# Groq API Key (Optional)
+# Alternative language model provider
+GROQ_API_KEY=your_groq_key_here
+
+# Perplexity API Key (Optional)
+# Additional AI capabilities
+PERPLEXITY_API_KEY=your_perplexity_key_here
+
+# Server Configuration
+PORT=3000
+
+# Data Directories (Optional)
+# Uncomment and modify if you want to use custom paths
+#KB_DIR=./data/kb
+#VECTOR_STORE_DIR=./data/vector_store
+#SUBJECTS_FILE=./data/subjects.json
+#CHAT_HISTORY_JSON=./data/chat_history.json
+#PHRASES_FILE=./data/phrases.json
+#SETTINGS_FILE=./data/settings.json
+
+# Voice Settings
+VOICE_ID=CwhRBWXzGAHq8TQ4Fs17
+VOICE_MODEL=eleven_multilingual_v2
+
+# System Settings
+DEBUG_MODE=false
+DEFAULT_LANGUAGE=auto
+USE_LANGUAGE_DETECTION=true
+
+# Note: Copy this file to .env and replace the placeholder values with your actual API keys
+# Do not commit your actual .env file to version control 
